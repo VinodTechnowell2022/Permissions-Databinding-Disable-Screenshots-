@@ -1,0 +1,87 @@
+
+features:-
+how to add dependencies/library in android 34 API 14
+how to get runtime permissions
+multiple permission at once runtime
+
+how to add databinding
+how to disable 3 finger or screenshot programmatically in android
+how to take picture with runtime permissions in TIRAMISU
+how to take picture from camera and gallery
+splash screen best practise
+
+mp chart - bar
+mp chart - pie
+mp chart - linear
+Android Studio Tutorial - Protractor View
+
+Activity Result Launcher in Android
+searchview on toolbar
+option menus on toolbar
+popup window on recyclerview
+alert dialog with list single selection
+alert dialog with list multi/checkbox selection
+custom progress bar
+
+room database crud
+
+Android Custom QR Code Scanner | Android Projects for
+How to make your inclinometer Android App to measure Tilt?
+how to create keystore
+how to create keystore to publish our app on google play store
+how to get current location
+how to create/implement google map in kotlin
+how to create fab
+how to create fab with expandable animation
+how to create rating bar screen in android
+how to implement click listener on recyclerview
+how to create custom toolbar
+how to create popup/adsview or custom google adview
+how to create custom tabs
+how to create custom view pagers
+how to create custom view pagers gallery
+how to create custom bottom navigation view
+managing fragment backstack in android kotlin
+how to create session/ shared preference in android app
+how to display exit alert in our app
+how to display credit score in our app
+how to make filter camera app at runtime step by step
+how to create custom alert dialog
+how to convert latitude, longitude to string address
+how to get offline location address, no internet required
+swipe to unlock button in android
+how to upload base64 image encoding data in android kotlin
+how to upload byte array image data in android kotlin
+how to create music player
+how to create video player
+how to create filter camera player
+how to create calculator app in android kotlin
+how to create BMI calculator app in android kotlin
+how to create Notes app in android kotlin
+how to create stopwatch app in android kotlin
+how to create quiz app in android kotlin
+how to create weather app in android kotlin
+how to create news app in android kotlin
+how to update/upload you app if you loss/forget/missed your keystore in playstore
+how to implement data binding in android kotlin
+Room database example with crud
+custom chip components work as radio button/check box in android kotlin
+custom spinner/dropdown in android
+custom spinner/dropdown in android
+expandable listview in android
+
+
+Exceptions/errors:-
+uninitilization error in kotlin
+int set to textview
+
+Ref link:
+https://github.com/linmomo/Android_open_project/tree/master?tab=readme-ov-file (All views custom library)
+https://www.youtube.com/watch?v=HyU4vkZ2NB8&list=PLjVLYmrlmjGdDps6HAwOOVoAtBPAgIOXL
+https://www.youtube.com/playlist?list=PLgCYzUzKIBE-1BsxlQTIPF7B95ey34jUF (advance)
+
+Lottie animation in android
+BMI calculator app
+Tic Tac Toe App
+
+
